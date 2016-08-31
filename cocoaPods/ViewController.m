@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     
+    ///我是另一个
     
     UIColor * cole = [UIColor blackColor];
     self.view.backgroundColor = cole;
