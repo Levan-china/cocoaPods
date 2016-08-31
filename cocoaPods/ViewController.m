@@ -16,6 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    
+    
+    UIColor * cole = [UIColor blackColor];
+    self.view.backgroundColor = cole;
     // Do any additional setup after loading the view, typically from a nib.
 }
 
